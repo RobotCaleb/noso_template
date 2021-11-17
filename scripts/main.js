@@ -1,5 +1,5 @@
 requirejs.config({
-    baseUrl: "/scripts/"
+    baseUrl: "./scripts/"
 });
 require(['dat.gui', 'glm-js.min',
     'canvas2svg', 'jszip.min',
