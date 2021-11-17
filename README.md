@@ -9,3 +9,7 @@ It's not perfect and it breaks in some instances. But it built what I needed it 
 Play with it at https://robotcaleb.github.io/noso_template/
 
 Tweak the sliders and click the "Save template" button.
+
+---
+
+Once downloaded, rename the `.png` and `.svg` and place on your device at `/usr/share/remarkable/templates/` and update the `templates.json` file. Recommend using `templatectl` - https://github.com/PeterGrace/templatectl
